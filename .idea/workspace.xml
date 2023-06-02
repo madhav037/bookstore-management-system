@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="753cb7c4-ecdb-45b4-ba49-ce11add9ea62" name="Changes" comment="initial">
-      <change beforePath="$PROJECT_DIR$/src/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Login.java" afterDir="false" />
+    <list default="true" id="753cb7c4-ecdb-45b4-ba49-ce11add9ea62" name="Changes" comment="checking">
+      <change afterPath="$PROJECT_DIR$/src/notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +59,8 @@
       <option name="presentableId" value="Default" />
       <updated>1683027491507</updated>
       <workItem from="1683027491775" duration="817000" />
-      <workItem from="1684066637256" duration="334000" />
+      <workItem from="1684066637256" duration="597000" />
+      <workItem from="1685189035791" duration="867000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1684066741210</created>
@@ -67,7 +69,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684066741210</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="done exit on close">
+      <created>1684067014630</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684067014630</updated>
+    </task>
+    <task id="LOCAL-00003" summary="checking">
+      <created>1684067155635</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684067155635</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +102,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+    <MESSAGE value="done exit on close" />
+    <MESSAGE value="checking" />
+    <option name="LAST_COMMIT_MESSAGE" value="checking" />
   </component>
 </project>

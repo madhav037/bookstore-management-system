@@ -1,0 +1,7 @@
+Basic idea : make a really cozy bookstore system for user as well as owner
+
+FEATURES :
+    * basic login page at first
+        * different login id's for admin and user
+        * hello aayush
+        
